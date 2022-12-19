@@ -15,7 +15,9 @@
 4. Jaka jest populacja Bronxu, Manhattanu i Queens
 
     -The Bronx,1385108
+    
     -Manhattan,1585873
+    
     -Queens,2230621
 
 5. Ile dzielnic (neighborhoods) znajduje się w każdej gminie (borough)
