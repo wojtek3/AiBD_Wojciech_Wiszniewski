@@ -1,6 +1,6 @@
 # Baza danych przestrzennychPostGIS
 
-##Ćwiczenia
+#Ćwiczenia
 
 1. Ile rekordów znajduje się w tabeli nyc_streets
 
