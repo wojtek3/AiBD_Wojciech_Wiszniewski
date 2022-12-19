@@ -1,7 +1,5 @@
 # Baza danych przestrzennychPostGIS
 
-Ćwiczenia
-
 1. Ile rekordów znajduje się w tabeli nyc_streets
 
     19091
